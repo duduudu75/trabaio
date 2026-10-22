@@ -1,0 +1,7 @@
+
+img {
+    width: 300px;    /* Largura fixa */
+    height: 450px;   /* Altura fixa */
+    object-fit: cover; /* Mantém a proporção e corta o excesso sem deformar */
+}
+
